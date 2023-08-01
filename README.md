@@ -6,5 +6,6 @@ Enable permissions after cloning:
 
 ```console
 foo@bar:~$ chmod +x pandoc_md2pdf.sh
+```
 
 # Custom fonts WIP
